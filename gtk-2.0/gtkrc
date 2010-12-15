@@ -6,7 +6,7 @@
 # Chip Camden <sterling@camdensoftware.com>
 #
 
-gtk_color_scheme = "fg_color:#00ff7f\nbg_color:#090909\nbase_color:#090909\ntext_color:#007737\nselected_bg_color:#008848\nselected_fg_color:#030303\ntooltip_bg_color:#70ff7f\ntooltip_fg_color:#000000"
+gtk_color_scheme = "fg_color:#00ff7f\nbg_color:#141414\nbase_color:#090909\ntext_color:#007737\nselected_bg_color:#008848\nselected_fg_color:#030303\ntooltip_bg_color:#70ff7f\ntooltip_fg_color:#000000"
 
 style "default"
 {
